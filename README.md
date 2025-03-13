@@ -22,7 +22,7 @@ Google Chrome and ChromeDriver (Ensure compatibility with the browser version)
 
 1️⃣ Clone the Repository
 
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/akash0107/myntraworkflow.git)
 
 cd myntra_automation
 
